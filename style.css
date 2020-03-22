@@ -1,4 +1,8 @@
 
+html {
+	background-color: red;
+}
+
 table {
 	width: 100%;
 	border: 3px red;
