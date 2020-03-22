@@ -1,0 +1,29 @@
+
+table {
+	width: 100%;
+	border: 3px red;
+	border-collapse: collapse;
+}
+
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	color: black;
+}
+
+th {
+	border: 1px black;
+	height: 25px;
+
+}
+
+img {
+	height: 250px;
+	width: 250px;
+
+}
+
+td {
+	border: 1px black;
+	padding: 3px;
+}
